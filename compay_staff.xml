@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<Company>
+	<Employee>
+		<ID>1</ID>
+		<FullName>Davydenko Pavel</FullName>
+		<JobTitle>DIRECTOR</JobTitle>
+		<Grade>DIRECTOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>2</ID>
+		<FullName>Vilchinskaya Maria</FullName>
+		<JobTitle>ACCOUNTANT</JobTitle>
+		<Grade>ADMINISTRATOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>3</ID>
+		<FullName>Ivanov Alexander</FullName>
+		<JobTitle>PROJECT_MANAGER</JobTitle>
+		<Grade>ADMINISTRATOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>4</ID>
+		<FullName>Sedoykin Vladimir</FullName>
+		<JobTitle>TEAM_LEAD</JobTitle>
+		<Grade>TEAM_LEAD</Grade>
+	</Employee>
+	<Employee>
+		<ID>5</ID>
+		<FullName>Giryat Alesya</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>SENIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>6</ID>
+		<FullName>Tikhanovskaya Svetlana</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>SENIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>7</ID>
+		<FullName>Krutikov Alexander</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>MIDDLE</Grade>
+	</Employee>
+	<Employee>
+		<ID>8</ID>
+		<FullName>Kuznetsova Darya</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>MIDDLE</Grade>
+	</Employee>
+	<Employee>
+		<ID>9</ID>
+		<FullName>Karachun Darya</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>JUNIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>10</ID>
+		<FullName>Andrey Krutikov</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>JUNIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>11</ID>
+		<FullName>Pisarik Vyacheslav</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>JUNIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>12</ID>
+		<FullName>Minich Dmitry</FullName>
+		<JobTitle>SOFTWARE_ENGINEER</JobTitle>
+		<Grade>JUNIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>13</ID>
+		<FullName>Basharimov Sergey</FullName>
+		<JobTitle>SOFTWARE_TESTER</JobTitle>
+		<Grade>SENIOR</Grade>
+	</Employee>
+	<Employee>
+		<ID>14</ID>
+		<FullName>Krivetko Anna</FullName>
+		<JobTitle>SOFTWARE_TESTER</JobTitle>
+		<Grade>MIDDLE</Grade>
+	</Employee>
+</Company>
